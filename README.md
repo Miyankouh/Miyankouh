@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/Miyankouh">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Miyankouh&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
-<a href="https://github.com/Miyankouh">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyankouh" />
-</a>
+(https://github-readme-stats.vercel.app/api/Miyankouh/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
