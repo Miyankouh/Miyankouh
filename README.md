@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Miyankouh">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Miyankouh&show_icons=true&count_private=true&include_all_commits=true" style="width:400px;" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Miyankouh&show_icons=true&count_private=true&include_all_commits=true" style="width:400px;" 
+&theme=dracula/></a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Miyankouh=willianrod)](https://github.com/Miyankouh/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Miyankouh)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br/>
 <a href="https://github.com/Miyankouh">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyankouh" style="width:400px;" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyankouh" style="width:400px;" 
+&theme=dracula />
 </a>
 
