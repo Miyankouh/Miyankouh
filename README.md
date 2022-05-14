@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Miyankouh&show_icons=true&count_private=true&include_all_commits=true" style="width:400px;" 
 &theme=dracula/></a>
 <br/>
-
+<a href="https://github.com/Miyankouh">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyankouh" style="width:400px;" 
+&theme=dracula />
+</a>
 
